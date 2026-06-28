@@ -1,5 +1,4 @@
 ## Hi there 👋
-# Hi!
 
 I lost access to my previous GitHub account, so I created this new profile.
 

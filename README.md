@@ -8,3 +8,4 @@ Thanks for visiting!
 
 Lien du moteur d'échecs : https://geass-vision.onrender.com/
 Lien du ChatBot : https://yobi-chatbot.onrender.com/
+Il faut attendre quelques secondes pour que les sites se chargent sur Render.
